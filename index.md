@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+
+## Welcome to Lily's Github Page
+I am a speech psychologist with a passion for research, data analysis and coding!
+
 
 You can use the [editor on GitHub](https://github.com/lilyassgari/lilyassgari.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
